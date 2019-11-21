@@ -78,8 +78,8 @@
                                 <div class="card-header">{{ post.title }}</div>
                                 <div class="card-body">
                                     <a href="{{ post.url }}">
-                                        {% if post.thumbnail %}
-                                            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
+                                        {% if post.preview %}
+                                            <img src="{{ post.preview }}" alt="{{ post.title }}" title="{{ post.title }}" />
 					    {% else %}
 					    (Click here to learn more)
                                         {% endif %}
