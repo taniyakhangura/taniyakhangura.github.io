@@ -1,0 +1,10 @@
+@import url(bootstrap.min.css);
+
+.wrapper{
+    padding-top: .5em;
+}
+
+.card{
+    margin: 0 1em;
+}
+
