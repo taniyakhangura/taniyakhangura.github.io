@@ -12,8 +12,8 @@ id: contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
 <div class="form-group">
-      <label for="exampleTextarea">Example textarea</label>
-      <textarea class="form-control" id="exampleTextarea" rows="3" spellcheck="false"></textarea>
+      <label for="message">Message</label>
+      <textarea class="form-control" id="message" rows="3" spellcheck="false"></textarea>
     </div>
     <p>
         <button type="submit"> Send/button>
