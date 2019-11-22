@@ -16,7 +16,7 @@ id: contact
       <textarea class="form-control" id="message" rows="3" spellcheck="false"></textarea>
     </div>
     <p>
-        <button type="submit"> Send/button>
-        <button type="reset"> Reset/button>
+        <button type="submit"> Send</button>
+        <button type="reset"> Reset</button>
     </p>
 </form>
