@@ -4,7 +4,7 @@ title: Contact
 id: contact
 ---
 
-<form> name="contact" method="POST" data-netflify="true"
+<form name="contact" method="POST" data-netflify="true">
     <p>
         <label> Your Name: <input type="text" name="name"/> </label>
     </p>
