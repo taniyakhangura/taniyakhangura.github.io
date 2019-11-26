@@ -1,8 +1,9 @@
 ---
 layout: default
-title: This is a test
+title: Blog
 date: '2019-11-09 16:28:16'
-preview: /images/uploads/2016_global_entrepreneurship_summit_logo_color_800_1.jpg
+thumbnail: /images/uploads/screen-shot-2019-11-21-at-7.56.27-pm.png
+preview: /images/uploads/6.png
 tags: entrepreneurship
 ---
 ![Global Entrepreneurship Summit](/images/uploads/2016_global_entrepreneurship_summit_logo_color_800_1.jpg "Global Entrepreneurship Summit")
