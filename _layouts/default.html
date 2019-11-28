@@ -68,7 +68,10 @@
 			</div>
 
 			{{ current.content }}
-
+			{% if current.myangle %}
+			<h2> My Angle </h2>
+			<p>{{ current.myangle }}</p>
+            {% endif %}
 		</section>
 		<section>
 			{% for i in (1..2) %}
