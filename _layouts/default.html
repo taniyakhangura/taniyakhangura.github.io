@@ -104,16 +104,25 @@
 			<br>
 			{% for static in site.pages %}
                 {% if static.id %}
-                    <div id="{{ static.id }}">
+                    <div id="{{ static.id }}" class="row">
+			<div class="col-md-6">
+			<div id="title">
+				
+			<h1>{{ static.title }}</h1>
+                        <hr>
+				</div>
+				<br>
+				{{ static.content }}
+			    </div>
+			    <div class="col-md-6">
                     {% if static.thumbnail %}
                         <img src="{{ static.thumbnail }}" alt="{{ static.title }}" title="{{ static.title }}" />
                     {% endif %}
-                    <div id="title">
-                        <h1>{{ static.title }}</h1>
-                        <hr>
+			    </div>
+                      
                     </div>
-
-                    {{ static.content }}
+				
+                 
                     </div>
 			<br>
 			<br>
