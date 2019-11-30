@@ -12,9 +12,7 @@ id: contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
         Message: <br>
-    <textarea name:"message" id="message" cols="40" rows="2"></textarea>
-    </p>
-    <p>
+   <input type="text" class="scrollabletextbox" name="note" value="<?php echo $note; ?>">
         <button type="submit"> Send</button>
         <button type="reset"> Reset</button>
     </p>
