@@ -9,6 +9,10 @@ myangle: >-
   analyzing the news, and sharing some personal work. Also, using a limited
   colour palette (pastels) and simple design was important to me to show a sleek
   look.
+
+
+  I also used fonts that complement one another choosing a serif font like
+  Playfair Display and a sans serif font like Brandon Grotesque.
 tags: ''
 ---
 As a side project, and a hobby, I decided to start a blog to document my thoughts on fashion trends, news, and some poems I wrote. Some people create YouTube videos, some people create online zines, and some people write blogs about their interests and passions.
