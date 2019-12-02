@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-id: Contact
+id: contact
 ---
 <form name="contact" method="POST" data-netflify="true">
     <p>
