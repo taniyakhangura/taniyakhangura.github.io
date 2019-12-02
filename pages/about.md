@@ -17,4 +17,5 @@ id: about
 I love fashion, the environment, and coffee. I also love the colour blue, and want to travel to countries all over the worl. My top three destinations are: Morocco, Mexico, and Greece. </p>
 
 <div>
-<img src class="icon">
+<img src="/images/uploads/noun_Coffee_836672.png" alt="coffee cup" class="icon">
+</div>
