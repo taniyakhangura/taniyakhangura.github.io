@@ -6,7 +6,7 @@ id: about
 ---
 
 <blockquote class="blockquote">
-  <p class="mb-0">Be a girl with a mind, a woman with attitude, and a lady with class.</p>
+  <p class="mb-0">"Be a girl with a mind, a woman with attitude, and a lady with class."</p>
   <footer class="blockquote-footer">Anonymous</footer>
 </blockquote>
 
