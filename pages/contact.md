@@ -10,7 +10,7 @@ title: Contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
         Message: <br>
-   <input type="text" class="scrollabletextbox" name="note" value="">
+   <input type="text" class="scrollabletextbox" name="note" value="<?php echo $note; ?>">
         <button type="submit"> Send</button>
         <button type="reset"> Reset</button>
 </form>
