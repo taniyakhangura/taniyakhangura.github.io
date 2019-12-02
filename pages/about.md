@@ -10,4 +10,6 @@ id: about
   <footer class="blockquote-footer">Anonymous</footer>
 </blockquote>
 
+<p class="text-info">Hello! My name is Taniya Khangura.</p>
+
 This is my about page!!!!
