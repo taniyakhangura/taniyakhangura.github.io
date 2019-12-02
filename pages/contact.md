@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Contact
-id: contact
 ---
-
 <form name="contact" method="POST" data-netflify="true">
     <p>
         <label> Your Name: <input type="text" name="name"/> </label>
@@ -12,7 +10,7 @@ id: contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
         Message: <br>
-   <input type="text" class="scrollabletextbox" name="note" value="<?php echo $note; ?>">
+   <input type="text" class="scrollabletextbox" name="note" value="">
         <button type="submit"> Send</button>
         <button type="reset"> Reset</button>
 </form>
