@@ -15,3 +15,6 @@ id: about
 <p class="text-primary">I am a creative thinker and a hardworking student who is eager to learn new skills to help create a better world. As a UX designer, I work well with teams to create creative solutions for various services, applications, websites, and spaces.
 
 I love fashion, the environment, and coffee. I also love the colour blue, and want to travel to countries all over the worl. My top three destinations are: Morocco, Mexico, and Greece. </p>
+
+<div>
+<img src class="icon">
